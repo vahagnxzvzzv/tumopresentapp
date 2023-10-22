@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+.navbar{
+  color: black;
+  font-family: Krona one;
+  width: 100%;
+}
+a {
+  text-decoration: none;
+  padding-left: 120px;
+  color: white;
+  transition: 0.3;
+}
+
+
+.dividerNavbar {
+  /* transform: translateX(10%); */
+  position:absolute;
+   top: 5%;
+   right: 10%;
+   transition: 0.3s;
+   /* position: fixed; */
+}
+.dividerNavbar a:hover {
+  color: grey;
+  transition: 0.3s;
+}
+.dividerNavbar:hover {
+  color: white;
+}
+.logoLink {
+  position:absolute;
+   top: 4%;
+   left: 0%;
+   font-size: 30px;
+   /* position: fixed; */
+}
+

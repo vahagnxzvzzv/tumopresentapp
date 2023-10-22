@@ -1,0 +1,21 @@
+.card {
+    background-color: black;
+    width: 300px;
+    border-radius: 29px;
+    height: 300px;
+    color: white;
+    transition: 0.3s;
+    border: 2px solid black;
+}
+.card:hover {
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px; */
+    /* box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px; */
+    /* box-shadow: black 0px 0px 0px 2px inset, rgb(255, 255, 255) 10px -10px 0px -3px, black 10px -10px, rgb(255, 255, 255) 20px -20px 0px -3px, black 20px -20px, rgb(255, 255, 255) 30px -30px 0px -3px, black 30px -30px, rgb(255, 255, 255) 40px -40px 0px -3px, black 40px -40px; */
+    /* box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset; */
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+    transition: 0.3s;
+    background-color: white;
+    color: black;
+    border: 2px solid white;
+
+}

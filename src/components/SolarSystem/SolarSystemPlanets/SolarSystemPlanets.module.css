@@ -1,0 +1,153 @@
+.planets { 
+    background-color: white;
+    width: 95%;
+    position: absolute;
+    top: 285%;
+    right: 2%;
+    border-radius: 25px;
+    height: 220%;
+    /* color: white; */
+}
+.present {
+    font-weight: 400;
+    font-size: 30px;
+    position: absolute;
+    top: 5%;
+    right: 31%;
+}
+.Jupiter {
+    /* position: relative; */
+    /* top: 55%;
+    left: 38%; */
+    display: flex;
+    transform: translate(38%, 30px);
+    font-weight: 400;
+}
+/* padding-left: 10px; */
+.JupiterCard {
+    position: absolute;
+    left: 10%;
+    top: 20%;
+}
+.JupiterImage {
+    display: flex;
+    transform: translate(45%, 30px);
+}
+.EarthCard {
+    position: absolute;
+    left: 40%;
+    top: 20%;
+}
+.EarthImage {
+    display: flex;
+    transform: translate(31.5%, 30px);
+}
+.Earth {
+    display: flex;
+    transform: translate(38%, 30px);
+    font-weight: 400;
+}
+
+.MercuryCard {
+    position: absolute;
+    left: 70%;
+    top: 20%;
+}
+.MercuryImage {
+    display: flex;
+    transform: translate(37.5%, 30px);
+}
+.Mercury {
+    display: flex;
+    transform: translate(33.5%, 30px);
+    font-weight: 400;
+}
+.MarsCard {
+    position: absolute;
+    left: 10%;
+    top: 48%;
+}
+.MarsImage {
+    display: flex;
+    transform: translate(41%, 30px);
+}
+.Mars {
+    display: flex;
+    transform: translate(39.5%, 30px);
+    font-weight: 400;
+}
+
+.VenusCard {
+    position: absolute;
+    left: 40%;
+    top: 48%;
+}
+.VenusImage {
+    display: flex;
+    transform: translate(35%, 30px);
+}
+.Venus {
+    display: flex;
+    transform: translate(37.5%, 30px);
+    font-weight: 400;
+}
+
+.SaturnCard {
+    position: absolute;
+    left: 70%;
+    top: 48%;
+}
+.SaturnImage {
+    display: flex;
+    transform: translate(25%, 60px);
+}
+.Saturn {
+    display: flex;
+    transform: translate(37.5%, 60px);
+    font-weight: 400;
+}
+
+.UranusCard {
+    position: absolute;
+    left: 10%;
+    top: 76%;
+}
+.UranusImage {
+    display: flex;
+    transform: translate(42%, 40px);
+}
+.Uranus {
+    display: flex;
+    transform: translate(35.7%, 50px);
+    font-weight: 400;
+}
+
+.NeptuneCard {
+    position: absolute;
+    left: 40%;
+    top: 76%;
+}
+.NeptuneImage {
+    display: flex;
+    transform: translate(42%, 40px);
+}
+.Neptune {
+    display: flex;
+    transform: translate(33%, 50px);
+    font-weight: 400;
+}
+
+.MoonCard {
+    position: absolute;
+    left: 70%;
+    top: 76%;
+}
+.MoonImage {
+    display: flex;
+    transform: translate(42%, 40px);
+}
+.Moon {
+    display: flex;
+    transform: translate(38%, 50px);
+    font-weight: 400;
+}

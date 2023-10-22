@@ -1,0 +1,22 @@
+.contentPresent {
+  color: white;
+  position: absolute;
+  left: 6%;
+  top: 40%;
+  font-size: 25px;
+  font-weight: 400;
+}
+.mainEarth {
+  width: 600px;
+  position: absolute;
+  right: 10%;
+  top: 25%;
+  background-color: transparent;
+  background-image: none;
+}
+.contentDivider {
+  position: absolute;
+  right: 28%;
+  top: 110%;
+  color: white;
+}
